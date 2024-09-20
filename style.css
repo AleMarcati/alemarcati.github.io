@@ -3,3 +3,19 @@ body {
   color: silver;
   padding: 2 em;  
 }
+
+a:link {
+  color: green;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: hotpink;
+}
+
+a:visited {
+  color: silver;
+}
