@@ -6,4 +6,5 @@ body {
 
 a {
   color: rgb(73,117,180);
+  target: _blank;
 }
