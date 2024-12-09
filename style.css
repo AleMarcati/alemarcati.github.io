@@ -7,3 +7,8 @@ body {
 a {
   color: rgb(73,117,180);
 }
+
+img {
+  width: 40px,
+  height: auto
+}
