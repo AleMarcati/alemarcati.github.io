@@ -7,3 +7,10 @@ body {
 a {
   color: rgb(73,117,180);
 }
+
+}
+#main_container {
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial;
+}
