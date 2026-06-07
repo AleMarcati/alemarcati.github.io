@@ -31,9 +31,9 @@ hr.gradient {
   border: none;
   height: 4px;
   background: linear-gradient(to right, 
-    rgba(0, 0, 255, 0), 
+    rgba(0, 0, 255, 1), 
     rgba(155, 0, 255, 1), 
-    rgba(255, 255, 0, 0)
+    rgba(255, 255, 0, 1)
   );
   width: 30%;
   margin: 20px auto;
