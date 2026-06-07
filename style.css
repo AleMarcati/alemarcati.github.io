@@ -18,7 +18,11 @@ a {
 hr {
   border: none;
   height: 4px;
-  background-color: #333;
+  background: linear-gradient(to right, 
+    rgba(100, 100, 100, 0), 
+    rgba(100, 100, 100, 1), 
+    rgba(100, 100, 100, 0)
+  );
   width: 50%;
 }
 
