@@ -19,11 +19,11 @@ hr {
   border: none;
   height: 4px;
   background: linear-gradient(to right, 
-    rgba(0, 0, 200, 0),
-    rgba(0, 0, 200, 1),
-    rgba(155, 0, 255, 1),
-    rgba(255, 0, 155, 1),
-    rgba(255, 0, 155, 0)
+    rgba(0, 0, 150, 0),
+    rgba(0, 0, 150, 1),
+    rgba(140, 0, 230, 1),
+    rgba(230, 0, 150, 1),
+    rgba(220, 0, 150, 0)
   );
   width: 50%;
 }
@@ -33,11 +33,11 @@ hr.gradient {
   border: none;
   height: 4px;
   background: linear-gradient(to right, 
-    rgba(0, 0, 200, 0),
-    rgba(0, 0, 200, 1),
-    rgba(155, 0, 255, 1),
-    rgba(255, 0, 155, 1),
-    rgba(255, 0, 155, 0)
+    rgba(0, 0, 150, 0),
+    rgba(0, 0, 150, 1),
+    rgba(140, 0, 230, 1),
+    rgba(230, 0, 150, 1),
+    rgba(220, 0, 150, 0)
   );
   width: 30%;
   margin: 20px auto;
